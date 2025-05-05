@@ -62,6 +62,14 @@ npx serve -s build -p 3000
 
 数据源位于: `/Users/h0270/Documents/code/ai-vedio/video_search/output`
 使用项目https://github.com/aipjn/vedio-understand构建数据
+使用subtitle_recognizer/subtitle_ocr.py生成字幕数据
+
+构建好的数据配置在：drama_config.py
+video_root 是视频的地址
+output_path 为vedio-understand 生成的字幕文件地址
+episodes 为文件名字和文件序号起始
+video_pattern 为视频的地址内部的情况，有几级目录，命名方法
+
 
 包含内容:
 - **字幕识别结果**: `subtitles/subtitle.txt`
