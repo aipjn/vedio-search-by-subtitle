@@ -1,6 +1,9 @@
 # 视频字幕搜索与视频片段生成系统
 本项目用于加载和组织多部剧集的视频分析数据，提供字幕搜索及视频片段生成功能。
 
+视频介绍：
+https://www.bilibili.com/video/BV1Y9VvzgEMa/?spm_id_from=333.1387.homepage.video_card.click
+
 ## 安装依赖
 
 ### 1. 后端依赖
